@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1787093927470,
+  "timestamp": 1787095111475,
   "index": "/sirne-core/index.html",
   "assetGroups": [
     {
@@ -19,7 +19,7 @@
         "/sirne-core/chunk-SFOPF7YH.js",
         "/sirne-core/chunk-YYD2Q6U2.js",
         "/sirne-core/index.html",
-        "/sirne-core/main-UECREAQ6.js",
+        "/sirne-core/main-6MAQI2UB.js",
         "/sirne-core/manifest.webmanifest",
         "/sirne-core/polyfills-5CFQRCPP.js",
         "/sirne-core/styles-ZTKXNNF6.css"
@@ -97,9 +97,9 @@
     "/sirne-core/icons/icon-96-96.png": "bfa9680e2aad6e457069b0c85ce68ef88fd86542",
     "/sirne-core/icons/logo.png": "62972c63b2ac0adf668991aff88db114e9df0321",
     "/sirne-core/icons/splash.png": "62972c63b2ac0adf668991aff88db114e9df0321",
-    "/sirne-core/index.html": "ff966241a8d4d71e1a3d07b51c021b9e4998d722",
+    "/sirne-core/index.html": "a8c84f23bda60c49123acd7e53035d1478f19ae8",
     "/sirne-core/leo.png": "6e8178c3204d99b68134c39b0c3c198a105df5db",
-    "/sirne-core/main-UECREAQ6.js": "2c59045651e48becdce71c47acec2e6401270fc1",
+    "/sirne-core/main-6MAQI2UB.js": "9f26979f8d8d79c5a9e20ff07650992b81800381",
     "/sirne-core/manifest.webmanifest": "478ed0b3c20d0bc36ecbd72b645625a5c3dc62c8",
     "/sirne-core/meerkat.png": "f1132e819113c6df240e39b5c5d1eabb913a6117",
     "/sirne-core/panda.png": "96f6c69835dd14fabc1835c64718888b11e0ba82",
