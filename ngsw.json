@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1787095111475,
+  "timestamp": 1787871357533,
   "index": "/sirne-core/index.html",
   "assetGroups": [
     {
@@ -97,7 +97,7 @@
     "/sirne-core/icons/icon-96-96.png": "bfa9680e2aad6e457069b0c85ce68ef88fd86542",
     "/sirne-core/icons/logo.png": "62972c63b2ac0adf668991aff88db114e9df0321",
     "/sirne-core/icons/splash.png": "62972c63b2ac0adf668991aff88db114e9df0321",
-    "/sirne-core/index.html": "a8c84f23bda60c49123acd7e53035d1478f19ae8",
+    "/sirne-core/index.html": "0e4fd1082ae4a63e863b01688fca0fb047f25447",
     "/sirne-core/leo.png": "6e8178c3204d99b68134c39b0c3c198a105df5db",
     "/sirne-core/main-6MAQI2UB.js": "9f26979f8d8d79c5a9e20ff07650992b81800381",
     "/sirne-core/manifest.webmanifest": "478ed0b3c20d0bc36ecbd72b645625a5c3dc62c8",
