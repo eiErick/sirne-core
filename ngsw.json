@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1787872627011,
+  "timestamp": 1787872964818,
   "index": "/sirne-core/index.html",
   "assetGroups": [
     {
@@ -60,6 +60,8 @@
         "/sirne-core/peacock.png",
         "/sirne-core/penguin.png",
         "/sirne-core/pink.png",
+        "/sirne-core/screenshots/desktop.png",
+        "/sirne-core/screenshots/mobile.png",
         "/sirne-core/shark.png",
         "/sirne-core/squirrel.png",
         "/sirne-core/stingray.png",
@@ -100,13 +102,15 @@
     "/sirne-core/index.html": "0e4fd1082ae4a63e863b01688fca0fb047f25447",
     "/sirne-core/leo.png": "6e8178c3204d99b68134c39b0c3c198a105df5db",
     "/sirne-core/main-6MAQI2UB.js": "9f26979f8d8d79c5a9e20ff07650992b81800381",
-    "/sirne-core/manifest.webmanifest": "a9169112f39237445a14d29ae64c7b3b419b3f93",
+    "/sirne-core/manifest.webmanifest": "f1b7247c60ce8b9cbfc413a41f17939482435add",
     "/sirne-core/meerkat.png": "f1132e819113c6df240e39b5c5d1eabb913a6117",
     "/sirne-core/panda.png": "96f6c69835dd14fabc1835c64718888b11e0ba82",
     "/sirne-core/peacock.png": "fd6e9d9798613b9e4e20b103b2fd6cbcbc370b5d",
     "/sirne-core/penguin.png": "57621cb33be2e07a9356dc80153480fde6c4a53d",
     "/sirne-core/pink.png": "eb6d894314ed170f3c39e1913e4ab5b2e4bdbdc5",
     "/sirne-core/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
+    "/sirne-core/screenshots/desktop.png": "dfb424fc2541cc34f5a380bc1c4cc10cf4bb367e",
+    "/sirne-core/screenshots/mobile.png": "0cd966dc5eaf098eb32fbc545dc67450d40dc55f",
     "/sirne-core/shark.png": "15647848897595698eb3055185fd431bb129359d",
     "/sirne-core/squirrel.png": "e9bcc3f7f2c3350ddb58c5d426fd273113a6ef77",
     "/sirne-core/stingray.png": "18f0bacff40ff100a78a535cce9755f7189d940a",
